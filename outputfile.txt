@@ -1,0 +1,103 @@
+decades - DATE
+One - CARDINAL
+NASA - ORG
+the National Aeronautics and Space Administration - ORG
+NASA - ORG
+Elon Musk - PERSON
+the European Space Agency - ORG
+ESA - ORG
+Roscosmos - PRODUCT
+the Russian Federal Space Agency - ORG
+the Mars Rovers - PRODUCT
+Perseverance and Curiosity - ORG
+Martian - NORP
+the International Space Station - ORG
+Earth - LOC
+the Lunar Gateway - FAC
+the Artemis Program - ORG
+Moon - PERSON
+Mars - LOC
+the Hubble Space Telescope - FAC
+Voyager 1 and Voyager 2 - LAW
+NASA - ORG
+SpaceX - ORG
+ESA - ORG
+Roscosmos - PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
